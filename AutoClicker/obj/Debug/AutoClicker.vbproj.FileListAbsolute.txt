@@ -1,0 +1,10 @@
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.xml
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Resources.resources
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.vbproj.GenerateResource.Cache
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.xml
+c:\users\vitor\documents\visual studio 2013\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
